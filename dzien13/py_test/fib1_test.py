@@ -26,3 +26,8 @@ def test_fib_ujemna():
    # ma dojść do takiego wyjątku
    with pytest.raises(ValueError):
        fib(-1)
+
+
+a = 1234
+for i in range(2, 23):
+    pass
