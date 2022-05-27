@@ -20,5 +20,6 @@ class Konto:
             self.saldo = self.saldo - wyplata
     
 
+gdfgdfgfdggh
 
 
