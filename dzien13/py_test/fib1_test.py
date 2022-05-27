@@ -31,3 +31,4 @@ def test_fib_ujemna():
 a = 1234
 for i in range(2, 23):
     pass
+b = [2,4,5,6,7]
